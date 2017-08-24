@@ -1,0 +1,9 @@
+{
+  "name": "momentum-poloniex",
+  "version": "0.1.0",
+  "description": "Momentum strategy variant for trading crypto currencies on Poloniex",
+  "main": "index.js",
+  "repository": "https://github.com/islahul/momentum-poloniex",
+  "author": "Islahul <islahulzunjani@gmail.com>",
+  "license": "MIT"
+}
